@@ -1,11 +1,11 @@
 # FINE3300-Mortgage-Payments
-Mortgage Calculator
+**Mortgage Calculator**
 
-Overview
+**Overview**
 
 The python based mortgage calculator allows you to calculate mortgage payments based on different payment periods, including Monthly, Semi-monthly, Bi-weekly, Weekly, Rapid Bi-weekly, and Rapid Weekly. It asks for the loan amount (principal), annual interest rate, and amortization period as an input to calculate the payments.
 
-Usage
+**Usage**
 
 Clone this repository or download the script.
 
@@ -21,7 +21,7 @@ Amortization period (in years)
 
 The script will compute and display the mortgage payments for different payment frequencies.
 
-Example
+**Example**
 
 Enter the principal amount: 100000
 
@@ -29,7 +29,7 @@ Enter the annual interest rate (in %): 5.5
 
 Enter the amortization period (in years): 25
 
-Output:
+**Output:**
 
 Monthly Payment: $610.39
 
@@ -43,6 +43,6 @@ Rapid Bi-weekly Payment: $305.20
 
 Rapid Weekly Payment: $152.60
 
-Author
+**Author**
 
 Developed by Sheeraz Aziz.
