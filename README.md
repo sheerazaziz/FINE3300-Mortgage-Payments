@@ -29,7 +29,7 @@ Enter the annual interest rate (in %): 5.5
 
 Enter the amortization period (in years): 25
 
-**Output:**
+**Output**
 
 Monthly Payment: $610.39
 
